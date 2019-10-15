@@ -33,8 +33,8 @@
 :root {
 	--theme-name: "Black Hole";
   --theme-version: "0.1";
-  --blurple: rgb(113, 136, 217);
-  --greyple: rgb(151, 168, 180);
+  --blurple: rgb(176, 224, 230);
+  --greyple: rgb(30, 144, 255);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
   --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
